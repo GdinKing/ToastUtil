@@ -35,7 +35,7 @@ dependencies {
 
 publish {
     userOrg = 'mdking'
-    groupId = 'android.king.toast'
+    groupId = 'com.king.ui'
     artifactId = 'toastlibrary'
     publishVersion = '1.0.0'
     desc = 'This is an android toast library'
