@@ -4,9 +4,9 @@
 ## 预览
 
 <div>
-<img src="/preview/custom.png" width="250" height="200" style="float:left"/>     <img src="/guide/preview.jpg" width="250" height="445"/>
-<img src="/preview/success.png" width="250" height="200" style="float:left"/>     <img src="/guide/preview.jpg" width="250" height="445"/>
-<img src="/preview/error.png" width="250" height="200" style="float:left"/>     <img src="/guide/preview.jpg" width="250" height="445"/>
+<img src="/preview/custom.png" width="250" height="200" style="float:left"/>
+<img src="/preview/success.png" width="250" height="200" style="float:left"/>
+<img src="/preview/error.png" width="250" height="200" style="float:left"/>
 </div>
 
 ## 使用方法
